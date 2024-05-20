@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.sineio.top/serein_hu17af83078bc72fcfdfdd504aedeec5de_255293_1320x0_resize_q75_h2_box.webp" align="center" style="width: 100%" />
+<img src="serein.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -59,6 +59,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
