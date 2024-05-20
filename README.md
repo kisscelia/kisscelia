@@ -1,5 +1,6 @@
 <div align="center">
 <img src="serein.jpg" align="center" style="width: 100%" />
+  Photo was taken in Chengdu by SineCelia.
 </div>  
   
 
