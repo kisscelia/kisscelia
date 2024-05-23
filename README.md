@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Sine, a Test & Quality Development Engineer 👨‍💻 from China. [Welcome to my blog.](https://www.sineio.top/){:target="_blank"} </div>  
+### <div align="center">I'm Sine, a Test & Quality Development Engineer 👨‍💻 from China. <a href="https://www.sineio.top/" target="_blank">Welcome to my blog</a></div>  
   
 
 - 🔭 I’m currently working on [A Byte of Vdbench](https://www.sineio.top/byte-of-vdbench), a tutorial, writing in Chinese with 💖  
